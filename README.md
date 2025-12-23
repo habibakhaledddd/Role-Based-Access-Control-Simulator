@@ -1,14 +1,12 @@
 # Role-Based-Access-Control-Simulator
 
-## Introduction
-Role-Based Access Control (RBAC) is a widely used security model where access permissions are assigned to roles rather than individual users.
---
-This repository contains a **simulator and presentation** to demonstrate RBAC concepts in a simple and understandable way.
-
+##  Overview
+This project is a **Role-Based Access Control (RBAC) Simulator** designed to demonstrate how access permissions are managed based on user roles.
+It simulates real-world authorization mechanisms commonly used in secure systems.
 ##  Project Objectives
-- Understand RBAC fundamentals
-- Simulate user, role, and permission relationships
-- Demonstrate access decision logic
+- Demonstrate RBAC concepts clearly
+- Show how roles, users, and permissions interact
+- Simulate access control decisions (Allow / Deny)
 - Provide an educational demo
 --
 ##  RBAC Components
